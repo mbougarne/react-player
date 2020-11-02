@@ -1,0 +1,11 @@
+@import '~@fortawesome/fontawesome-free/css/all.css';
+
+i{
+    cursor: pointer;
+    color: #b2bec3;
+}
+i:hover,
+i:focus,
+i:active{
+    color: #d63031;
+}
