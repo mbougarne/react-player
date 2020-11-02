@@ -1,0 +1,35 @@
+.Header{
+    margin: 0 auto;
+    padding: .75rem;
+    padding-top: 1rem;
+    background-color: #2d3436;
+    color: #fff;
+}
+
+.Header .Search{
+    margin: 0 auto;
+}
+
+.Header .Search .form-control{
+    border: none;
+    border-radius: 0;
+}
+
+.Header .Search button{
+    margin-left: -30px;
+}
+
+.Header .Search .btn{
+    border-radius: 0;
+}
+
+.Header .Search .btn-primary{
+    background-color: #d63031;
+    border-color: #d63031;
+}
+.Header .Search .btn-primary:hover,
+.Header .Search .btn-primary:focus,
+.Header .Search .btn-primary:active{
+    background-color: #e17055;
+    border-color: #e17055;
+}
