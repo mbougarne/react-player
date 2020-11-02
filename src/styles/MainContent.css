@@ -113,3 +113,41 @@
 .VideoProgressContainer .progress .progress-bar{
     background-color: #d63031;
 }
+
+.VideosContainer{
+    margin: 1rem auto;
+    padding: 0;
+    width: 100%;
+    max-width: 640px;
+}
+
+.ResultContainer{
+    margin: 0 auto;
+    padding: 0;
+    width: 100%;
+    max-width: 100%;
+}
+
+.SingleItemContainer{
+    margin: 5px auto;
+    padding: 0;
+    width: 100%;
+    border: 1px solid #dfe6e9;
+    cursor: pointer;
+}
+
+.SingleItemContainer .card{
+    border: none;
+}
+
+.SingleItemContainer h4{
+    font-size: 1.1rem;
+}
+
+.SingleItemContainer p{
+    font-size: .85rem;
+}
+
+.SingleItemContainer h5{
+    font-size: .9rem;
+}
